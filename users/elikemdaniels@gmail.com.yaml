@@ -4,3 +4,5 @@ id: 5f818b4e-1432-4422-80d5-ec464bdaa638
 password_hash: $2y$12$W.7GcEzr3Eqac3toc50d5eiLu8xpGDBrKN5/Hqj7LcCaV9GYtSxq2
 preferences:
   theme: light
+  collections:
+    listing_mode: table
